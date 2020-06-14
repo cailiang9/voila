@@ -10,4 +10,4 @@ dependencies:
   - xeus-cling=0.8.1
   - pip:
     - voila-vuetify
-    - git://github.com/cailiang9/voila.git@patch-1
+    - git+https://github.com/cailiang9/voila.git@patch-1
